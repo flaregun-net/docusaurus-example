@@ -5,7 +5,9 @@ slug: /
 
 # Get Started
 
-This is a **pre-configured Docusaurus starter template** for i18n docs & posts using Docusaurus `v2.0.0-beta.18`, Typescript, Sass, Local Search etc.
+:::warning IMPORTANT
+This is a **demonstration** of using Proxyflare to mount a documentation website on your /docs path.
+:::
 
 A live demo build directly from this repository is deployed on [docusaurus-boilerplate.vercel.app](https://docusaurus-boilerplate.vercel.app) which means you can start a docs site exactly like the demo out of the box.
 

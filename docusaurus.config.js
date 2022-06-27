@@ -226,7 +226,7 @@ const config = {
       hideableSidebar: true,
       announcementBar: {
         id: "announcementBar-0", // Increment on change
-        content: `⭐️ If you like this Docusaurus Boilerplate, give it a star on <a target="_blank" rel="noopener noreferrer" href="https://github.com/arisac/docusaurus-boilerplate">GitHub</a> and follow me on <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/arisdotac" >${TwitterSvg} Twitter</a>`,
+        content: `This is just a Proxyflare demostration — <a target="_blank" rel="noopener noreferrer" href="https://flaregun.net/">Click here</a> to visit the real Proxyflare docs`,
         isCloseable: true,
       },
     }),
