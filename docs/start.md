@@ -5,8 +5,10 @@ slug: /
 
 # Get Started
 
-:::warning IMPORTANT
-This is a **demonstration** of using Proxyflare to mount a documentation website on your /docs path.
+:::warning DEMO
+This is a **demonstration** of using Proxyflare to mount a documentation website on your website's /docs path.
+
+Visit the real [Proxyflare docs](https://flaregun.net/)
 :::
 
 A live demo build directly from this repository is deployed on [docusaurus-boilerplate.vercel.app](https://docusaurus-boilerplate.vercel.app) which means you can start a docs site exactly like the demo out of the box.
